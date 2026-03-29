@@ -43,4 +43,4 @@ Follow the steps below to implement the house numbering system:
 * Point data containing assigned house numbers
 * Line data linking buildings to their corresponding roads
 
-The point dataset also includes the **third-level hierarchy road `Unique_ID`, which can be used to join with the original road dataset to retrieve road names.
+The point dataset also includes the **third-level hierarchy road** `Unique_ID`, which can be used to join with the original road dataset to retrieve road names.
